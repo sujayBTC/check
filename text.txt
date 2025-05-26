@@ -1,0 +1,3 @@
+hey creating a file and adding some msg from terminal
+add more text
+/n
